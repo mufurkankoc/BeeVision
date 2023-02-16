@@ -3,7 +3,7 @@
  
  
 # Kullanım
- - python3 beevision.py --image filename
+ - python3 beevision.py --image filename  
  - Ör: python3 beevision.py --image image.jpg
  
  
