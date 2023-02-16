@@ -23,3 +23,8 @@
   - ultralytics 
   - supervision
   - argparse
+  
+  # Ekstralar
+  - Modelleme için YoloV8 tercih edilmiştir.
+  - Eğitim için daha yüksek verim alabilmek adına verilen imaj dosyalarının üzerine dosyaların ayna görüntüleri ve gri tonlamalarıda eklenmiştir. 
+  - Tek tip çıktı(Sticker) alacak şekilde eğitilmiş olup, bundan sonraki aşamada etiketler boyutuna, şekline ve önemine göre sınıflandırıldığında daha yüksek confidence değerlerine ulaşılabileceği öngörülmektedir.
