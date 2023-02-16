@@ -17,9 +17,9 @@
 
 
  # Kütüphaneler
-  torch
-  numpy as np
-  cv2
-  ultralytics 
-  supervision
-  argparse
+  - torch
+  - numpy as np
+  - cv2
+  - ultralytics 
+  - supervision
+  - argparse
