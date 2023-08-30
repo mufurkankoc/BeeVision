@@ -1,5 +1,5 @@
-# BeeVision
- BeeVision teknik mülakatı için hazırlanmış repo
+# Amaç
+ Teknik gelişim için hazırlanmış repo
  
  
 # Kullanım
