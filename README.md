@@ -3,8 +3,8 @@
  
  
 # Kullanım
- - python3 beevision.py --image filename  
- - Ör: python3 beevision.py --image image.jpg
+ - python3 main.py --image filename  
+ - Ör: python3 main.py --image image.jpg
  
  
  # İçerik
